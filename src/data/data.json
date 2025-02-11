@@ -1,0 +1,194 @@
+{
+  "Header": {
+    "title": "Estudia y trabaja en Irlanda",
+    "paragraph": "Lleva tu carrera profesional al siguiente nivel"
+  },
+  "About": {
+    "paragraph": "¡Hola! Soy Francia Jarufe, y mi misión es ayudar a estudiantes como tú a cumplir su sueño de estudiar en Irlanda. Hace más de seis años tomé la decisión de vivir esta experiencia en el extranjero, y desde entonces he aprendido todo sobre el proceso de estudios, visas y adaptación a un nuevo país. A lo largo de mi trayectoria, he asesorado a cientos de estudiantes en la elección de su primer curso de inglés, programas de renovación y educación superior en Irlanda. Sé lo emocionante y desafiante que puede ser dar este gran paso, y por eso mi objetivo es brindarte una guía honesta, basada en mi propia experiencia, para que tu camino sea más claro y sencillo. Quiero que vivas esta aventura con confianza y seguridad, sabiendo que cuentas con alguien que ha recorrido el mismo camino. Si estás listo/a para comenzar, aquí estoy para ayudarte. ¡Hagamos de tu sueño una realidad! ✈️📚✨",
+    "Why": [
+      "Motivos",
+      "Motivos",
+      "Motivos",
+      "Motivos"
+    ],
+    "Why2": [
+      "Motivos",
+      "Motivos",
+      "Motivos",
+      "Motivos"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "instagram": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "https://www.youtube.com/@franciajarufe8706"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-briefcase",
+      "title": "Permiso de trabajo legal",
+      "text": "Si te matriculas en un curso de inglés de al menos 25 semanas, puedes aplicar a la visa Stamp 2, que te permite trabajar legalmente 20 horas semanales durante el período de clases y 40 horas semanales en vacaciones específicas (verano e invierno)."
+    },
+    {
+      "icon": "fa fa-language",
+      "title": "Inmersión total en el idioma",
+      "text": "Desde el primer día estarás rodeado de hablantes nativos y tendrás que usar el inglés en tu día a día, lo que te permitirá mejorar rápidamente tu fluidez y confianza."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Ambiente multicultural",
+      "text": "Dublín y otras ciudades irlandesas reciben estudiantes de todo el mundo, lo que te permitirá conocer diferentes culturas, hacer amigos internacionales y ampliar tu red de contactos."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Calidad educativa y reconocimiento internacional",
+      "text": "Las escuelas de inglés en Irlanda están reguladas y cumplen con altos estándares de enseñanza. Además, muchos cursos ofrecen certificaciones reconocidas a nivel mundial."
+    },
+    {
+      "icon": "fa fa-level-up ",
+      "title": "Oportunidades de crecimiento y estudio",
+      "text": "Después de mejorar tu inglés, puedes continuar con estudios superiores en Irlanda, como diplomas, bachelors o masters, con opciones de postulación a visas de trabajo al terminar tu carrera."
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "Ubicación estratégica para viajar por Europa",
+      "text": "Irlanda tiene una ubicación privilegiada que permite viajar fácilmente a otros países europeos. Con aerolíneas de bajo costo y vuelos cortos, puedes explorar nuevos destinos y aprovechar al máximo tu experiencia en el extranjero."
+    }
+  ]
+}
