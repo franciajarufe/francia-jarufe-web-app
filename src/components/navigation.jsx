@@ -27,31 +27,31 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
+            {/* <li> 
               <a href="#features" className="page-scroll">
                 Inicio
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#about" className="page-scroll">
                 Sobre Mi
               </a>
             </li>
             <li>
-              <a href="#services" className="page-scroll">
-                Estudiar Inglés 
+              <a href="#features" className="page-scroll">
+                Beneficios de estudiar en Irlanda 
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Estudiar en la Universidad
+                Galeria
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#testimonials" className="page-scroll">
                 Recursos Utiles
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#contact" className="page-scroll">
                 Contacto

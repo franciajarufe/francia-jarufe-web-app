@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Phoenix Park",
+      "largeImage": "img/portfolio/pexels-spencphoto-28518606.jpg",
+      "smallImage": "img/portfolio/pexels-spencphoto-28518606.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Grafton Street",
+      "largeImage": "img/portfolio/pexels-lorna-pauli-1320744316-29545950.jpg",
+      "smallImage": "img/portfolio/pexels-lorna-pauli-1320744316-29545950.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "The Spire of Dublin",
+      "largeImage": "img/portfolio/1-8d6eff9a.png",
+      "smallImage": "img/portfolio/1-8d6eff9a.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "St. Sthepens Green Park",
+      "largeImage": "img/portfolio/St.StephensGreen-5-fecad0ae0416455b83a3ef082f28ea30.jpg",
+      "smallImage": "img/portfolio/St.StephensGreen-5-fecad0ae0416455b83a3ef082f28ea30.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Saint Patrick's Cathedral",
+      "largeImage": "img/portfolio/758550e6c2895bf37e08651f6261c616.jpg",
+      "smallImage": "img/portfolio/758550e6c2895bf37e08651f6261c616.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Trinity College Library (Book of Kells)",
+      "largeImage": "img/portfolio/pexels-ann-marie-kennon-547933-1296000.jpg",
+      "smallImage": "img/portfolio/pexels-ann-marie-kennon-547933-1296000.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Dublin Castle",
+      "largeImage": "img/portfolio/img_9686-2000x1200.jpg",
+      "smallImage": "img/portfolio/img_9686-2000x1200.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "River Liffey",
+      "largeImage": "img/portfolio/pexels-shylands-1650882.jpg",
+      "smallImage": "img/portfolio/pexels-shylands-1650882.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "The Custom House",
+      "largeImage": "img/portfolio/pexels-themarkdalton-962987.jpg",
+      "smallImage": "img/portfolio/pexels-themarkdalton-962987.jpg"
     }
   ],
   "Services": [
@@ -162,12 +162,12 @@
   "Features": [
     {
       "icon": "fa fa-briefcase",
-      "title": "Permiso de trabajo legal",
-      "text": "Si te matriculas en un curso de inglés de al menos 25 semanas, puedes aplicar a la visa Stamp 2, que te permite trabajar legalmente 20 horas semanales durante el período de clases y 40 horas semanales en vacaciones específicas (verano e invierno)."
+      "title": "Oportunidad de trabajar part-time mientras estudias",
+      "text": "Los estudiantes internacionales en Irlanda pueden trabajar hasta 20 horas por semana durante el período lectivo y hasta 40 horas en vacaciones."
     },
     {
       "icon": "fa fa-language",
-      "title": "Inmersión total en el idioma",
+      "title": "País de habla inglesa",
       "text": "Desde el primer día estarás rodeado de hablantes nativos y tendrás que usar el inglés en tu día a día, lo que te permitirá mejorar rápidamente tu fluidez y confianza."
     },
     {
@@ -178,7 +178,7 @@
     {
       "icon": "fa fa-graduation-cap",
       "title": "Calidad educativa y reconocimiento internacional",
-      "text": "Las escuelas de inglés en Irlanda están reguladas y cumplen con altos estándares de enseñanza. Además, muchos cursos ofrecen certificaciones reconocidas a nivel mundial."
+      "text": "Las instituciones educativas en Irlanda están reguladas y cumplen con altos estándares de enseñanza. Además, muchos cursos ofrecen certificaciones reconocidas a nivel mundial."
     },
     {
       "icon": "fa fa-level-up ",
@@ -189,6 +189,16 @@
       "icon": "fa fa-plane",
       "title": "Ubicación estratégica para viajar por Europa",
       "text": "Irlanda tiene una ubicación privilegiada que permite viajar fácilmente a otros países europeos. Con aerolíneas de bajo costo y vuelos cortos, puedes explorar nuevos destinos y aprovechar al máximo tu experiencia en el extranjero."
+    },
+    {
+      "icon": "fa fa-music",
+      "title": "Cultura innovadora y creativa",
+      "text": "Irlanda es un país con una gran riqueza cultural y una historia de innovación a nivel mundial. Desde la extravagancia de Oscar Wilde hasta la revolución literaria de James Joyce, desde la física cuántica pionera de John Bell hasta el Premio Nobel Ernest Walton, la cultura irlandesa de innovación y creatividad es una parte esencial de la experiencia en el país. ¡Irlanda es el país más emprendedor de Europa!"
+    },
+    {
+      "icon": "fa fa-lock ",
+      "title": "País seguro",
+      "text": "Según el Índice de Paz Global 2024, elaborado por el Instituto para la Economía y la Paz, Irlanda se posiciona como el segundo país más pacífico del mundo, solo por detrás de Islandia, y por lo tanto es considerado como un destino seguro y acogedor para estudiantes internacionales."
     }
   ]
 }

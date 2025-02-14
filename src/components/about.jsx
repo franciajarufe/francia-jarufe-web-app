@@ -11,10 +11,19 @@ export const About = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>Acerca de Mi</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>Como puedo ayudarte?</h3>
-              <div className="list-style">
+              <br></br>
+              <br></br>
+              <h2>Sobre mi</h2>
+              <p style={{fontSize: 15,fontWeight: ''}}>{props.data ? props.data.paragraph : "loading..."}</p>
+              <br></br>
+              <br></br>
+              <br></br>
+              
+              <h2 style={{fontSize: 21,fontWeight: 'inherit'}}> "Convierte tu sueño de estudiar en el extranjero con mi asesoría personalizada."</h2>
+              <p style={{fontSize: 14,fontWeight: 'bolder'}}>Francia Jarufe</p>
+
+              {/* <h3>Como puedo ayudarte?</h3> */}
+              {/* <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
                     {props.data
@@ -33,7 +42,7 @@ export const About = (props) => {
                       : "loading"}
                   </ul>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
